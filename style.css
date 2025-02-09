@@ -188,7 +188,7 @@ body {
 .profile-image img {
   width: 100%;
   max-width: 540px;
-  height: auto;
+  height: 70%;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
